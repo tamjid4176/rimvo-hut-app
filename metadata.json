@@ -1,0 +1,6 @@
+{
+  "name": "Rimvo Hut",
+  "description": "Rimvo Hut & Rimvo Finance — Shop groceries, electronics, and home appliances on rimvohut.com and pay in 3, 6, or 12 transparent monthly installments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
